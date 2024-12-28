@@ -25,7 +25,6 @@ Welcome to my GitHub profile! I'm an aspiring **Data Scientist** with a passion 
 ### Programming Languages & Frameworks:
 - **Python**: Data analysis, machine learning, and automation.
 - **SQL**: Database querying and management.
-- **JavaScript**: Basic scripting for web applications.
 
 ### Data Visualization & Tools:
 - **Tableau**: Interactive dashboards and storytelling.
