@@ -81,7 +81,7 @@ I’m looking to contribute to projects in **data analysis**, **business intelli
 ---
 
 ## 📬 Let's Connect
-- **LinkedIn**: [Alvin Elias Ogam Asingo](https://www.linkedin.com/in/alvin-asingo)
+- **LinkedIn**: [Alvin Elias Ogam Asingo](www.linkedin.com/in/alvin-ogam)
 - **GitHub**: [Ogam-Alvin](https://github.com/Ogam-Alvin)
 - **Email**: [Contact Me](mailto:alvinogam@gmail.com)
 
